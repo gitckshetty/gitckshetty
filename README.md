@@ -1,16 +1,21 @@
-## Hi there 👋
+# Chandrashekhar K Shetty (CK)
 
-<!--
-**gitckshetty/gitckshetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technology Professional | Engineering | Data & AI
 
-Here are some ideas to get you started:
+Focused on technology innovation, engineering excellence, and data-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Expertise
+- Technology & Software Engineering
+- Python & Automation
+- Data Analytics
+- Machine Learning & Artificial Intelligence
+- Generative AI
+
+### Technology Stack
+Python • SQL • Pandas • NumPy • Matplotlib • scikit-learn
+
+### Projects
+Explore my repositories for engineering solutions, data analysis, automation, and AI/ML applications.
+
+---
+Building reliable solutions through technology and innovation.
